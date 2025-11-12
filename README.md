@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 Here , We will do project about sentiment analysis from different situation
 
-# !st project: Sentiment Analysis for Mental Health Monitoring
+# 1st project: Sentiment Analysis for Mental Health Monitoring
 ##  Background and Motivation
 Mental health is a fundamental aspect of overall well-being, affecting how individuals think, feel, and act. With the increasing prevalence of mental health disorders such as depression, anxiety, and stress, there is a growing need for innovative solutions to monitor and address these issues proactively. Traditional methods of mental health assessment often rely on self-reported surveys and clinical evaluations, which can be time-consuming and may not capture real-time fluctuations in an individual's emotional state.
 
